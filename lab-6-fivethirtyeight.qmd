@@ -1,0 +1,65 @@
+---
+title: "Lab 6 - Why Many Americans Don’t Vote"
+subtitle: "STA 210 - Spring 2022"
+author: "Team Name: Member 1, Member 2, Member 3, Member 4"
+date: "Add the date here"
+format: pdf
+editor: visual
+---
+
+## Setup
+
+Load packages and data:
+
+```{r}
+#| label: load-pkg-data
+#| message: false
+
+library(tidyverse)
+library(tidymodels)
+library(knitr)
+
+voters <- read_csv("https://raw.githubusercontent.com/fivethirtyeight/data/master/non-voters/nonvoters_data.csv")
+```
+
+## Exercises
+
+### Exercise 1
+
+```{r}
+#| label: label-me-something-meaningful
+
+# add code here
+```
+
+### Exercise 2
+
+```{r}
+#| label: label-me-something-else-meaningful
+
+# add code here
+```
+
+### Exercise 3
+
+...
+
+### Exercise 4
+
+...
+
+### Exercise 5
+
+...
+
+### Exercise 6
+
+...
+
+### Exercise 7
+
+...
+
+### Exercise 8
+
+...
